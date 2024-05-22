@@ -40,18 +40,19 @@ class MainActivity : ComponentActivity() {
         setContent {
             NewsAppTheme {
                 Surface(
-                    modifier = Modifier
-                        .fillMaxSize()
-//                        .focusable(true),
-
+                    modifier = Modifier.fillMaxSize()
                     ,shape = RectangleShape
                 ) {
 
+                    // Arranging components vertically
                     Column(modifier = Modifier
                         .padding(32.dp)) {
-                        Text(text = "Top News" , fontSize = 40.sp ,)
-                        News()
 
+                        // Displaying the title
+                        Text(text = "Top News" , fontSize = 40.sp)
+
+                        // Including the News composable to display the news content
+                        News()
                     }
 
                 }

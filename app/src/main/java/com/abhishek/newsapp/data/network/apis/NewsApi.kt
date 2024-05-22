@@ -5,6 +5,7 @@ import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Query
 
+// api call
 interface NewsApi {
 
     @GET("v2/top-headlines")
