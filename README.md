@@ -16,7 +16,7 @@ A simple News application that displays top news headlines from the [NewsAPI](ht
 - Hilt ( for Dependency injection)
 - Kotlin Coroutines
 
-  ## APK
+## APK
 - [APK](https://drive.google.com/file/d/1SP2cV9fBHm6c6LjvOSN45IAOH-SCoEGj/view?usp=sharing)
 
 ## Usage
