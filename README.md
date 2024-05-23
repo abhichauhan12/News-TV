@@ -4,7 +4,6 @@
 A simple News application that displays top news headlines from the [NewsAPI](https://newsapi.org/).
 
 ## Features
-- Fetches current weather data based on user's location
 - Fetches news data from a remote API
 - Handles network requests with Retrofit
 - Uses Hilt for dependency injection
