@@ -20,7 +20,7 @@ A simple News application that displays top news headlines from the [NewsAPI](ht
 - [APK](https://drive.google.com/file/d/1SP2cV9fBHm6c6LjvOSN45IAOH-SCoEGj/view?usp=sharing)
 
 ## Usage
-- Clone the repository: [https://github.com/abhichauhan12/Weather-app-with-google-map/](https://github.com/abhichauhan12/News-TV)
+- Clone the repository: [https://github.com/abhichauhan12/News-TV/](https://github.com/abhichauhan12/News-TV)
 - Open the project in Android Studio.
 - Add your NewsAPI key in the local.properties file:
   <br>
